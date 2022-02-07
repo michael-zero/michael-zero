@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   <!--![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)-->
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Angular](https://img.shields.io/badge/-Angular-red)
+  ![Docker](https://img.shields.io/badge/-Docker-blue)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 - 🛢 &nbsp;
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
