@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJs](https://img.shields.io/badge/-nextjs-brightgreen)
   <!--![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)-->
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Angular](https://img.shields.io/badge/-Angular-red)
